@@ -1,0 +1,2 @@
+# Machine_Learning-Logistic_Regression_Algorithm_Titanic_Dataset
+I have applied Logistic_Regression_Algorithm on titanic Dataset
